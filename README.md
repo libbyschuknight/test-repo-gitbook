@@ -14,7 +14,17 @@ How easy is it to add a table?
 | Bananas  | 5 | Saturday |
 | Chocolate  | 6 | Friday |
 
+
+| 0:0 | 1:0 |
+| -- | -- |
+| 0:2 | 1:2 |
+
+
 Yes, tables are pretty easy and it is great seeing the preview updating straight away!!
+
+OH NO! Table isn't working on github repo readme page :(, what have I done wrong
+
+
 
 ![](Screen Shot 2015-08-20 at 10.19.26 am.png)
 
