@@ -8,7 +8,7 @@ Oh cool, yes it does! Now I need to set one up for kahu-2015 but I think at the 
 How easy is it to add a table?
 
 | TITLE | TIME | DAY |
-| -- | -- | -- |
+| ------ | ------ | ------ |
 | Cats  | 12 | Tuesday |
 | Dogs  | 9 | Monday |
 | Bananas  | 5 | Saturday |
