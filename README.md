@@ -20,6 +20,7 @@ How easy is it to add a table?
 | 0:2 | 1:2 |
 
 
+
 | Week |    Time     |    Focus                 |
 | -----|:----------: | -----------:|
 |  1   | 4:00 - 5:30 | Sexism                   |
