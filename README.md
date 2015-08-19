@@ -15,13 +15,6 @@ How easy is it to add a table?
 | Chocolate  | 6 | Friday |
 
 
-| 0:0 | 1:0 |
-| -- | -- |
-| 0:2 | 1:2 |
-
-
-
-
 | Week |    Time     |    Focus                 |
 | -----|:----------: | -----------:|
 |  1   | 4:00 - 5:30 | Sexism                   |
