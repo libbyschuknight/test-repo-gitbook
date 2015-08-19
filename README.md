@@ -27,6 +27,8 @@ Hmmm, got the table working, seemed I needed to just add a return at end!
 
 
 
+
+
 ![](Screen Shot 2015-08-20 at 10.19.26 am.png)
 
 Oh and adding a image! Sweet as easy! Cool!
