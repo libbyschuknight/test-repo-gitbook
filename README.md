@@ -24,7 +24,7 @@ Hmmm, got the table working, seemed I needed to just add a return at end!
 | --- | --- |
 | 0:2 | 1:2 |
 
-
+Yes, looks like you have to add a return or two after the table for it to work as a table in the README.
 
 
 
