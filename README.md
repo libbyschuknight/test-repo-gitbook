@@ -15,16 +15,6 @@ How easy is it to add a table?
 | Chocolate  | 6 | Friday |
 
 
-| Week |    Time     |    Focus                 |
-| -----|:----------: | -----------:|
-|  1   | 4:00 - 5:30 | Sexism                   |
-|  2   | 4:00 - 5:00 | Inner Critic             |
-|  3   | 4:00 - 5:00 | The F Word               |
-|  4   | 4:00 - 5:00 | Difficult Conversations  |
-|  5   | 4:00 - 5:00 | Triggers                 |
-|  6   | 4:00 - 5:00 | Empathy                  |
-
-
 Yes, tables are pretty easy and it is great seeing the preview updating straight away!!
 
 OH NO! Table isn't working on github repo readme page :(, what have I done wrong
