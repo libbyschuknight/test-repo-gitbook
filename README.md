@@ -20,6 +20,8 @@ Yes, tables are pretty easy and it is great seeing the preview updating straight
 
 Oh and adding a image! Sweet as easy! Cool!
 
+One issue might be that it doesn't save automatically, this might be an issue as I have gotten very used to things saving automatically!!
+
 Now I just need to figure out how to add other files and link to them.
 
 
