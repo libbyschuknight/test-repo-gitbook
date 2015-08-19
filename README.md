@@ -17,7 +17,13 @@ How easy is it to add a table?
 
 Yes, tables are pretty easy and it is great seeing the preview updating straight away!!
 
-OH NO! Table isn't working on github repo readme page :(, what have I done wrong
+OH NO! Table isn't working on github repo readme page :(, what have I done wrong??
+Hmmm, got the table working, seemed I needed to just add a return at end!
+
+| 0:0 | 1:0 |
+| -- | -- |
+| 0:2 | 1:2 |
+
 
 
 
