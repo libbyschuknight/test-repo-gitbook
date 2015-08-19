@@ -26,10 +26,6 @@ Hmmm, got the table working, seemed I needed to just add a return at end!
 
 Yes, looks like you have to add a return or two after the table for it to work as a table in the README.
 
-
-
-
-
 ![](Screen Shot 2015-08-20 at 10.19.26 am.png)
 
 Oh and adding a image! Sweet as easy! Cool!
@@ -37,6 +33,9 @@ Oh and adding a image! Sweet as easy! Cool!
 One issue might be that it doesn't save automatically, this might be an issue as I have gotten very used to things saving automatically!!
 
 Now I just need to figure out how to add other files and link to them.
+
+Link to another file
+
 
 
 
