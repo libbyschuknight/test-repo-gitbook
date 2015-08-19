@@ -37,12 +37,6 @@ Now I just need to figure out how to add other files and link to them.
 Link to another file
 
 
-| 0:0 | 1:0 |
-| --- | --- |
-| 0:2 | 1:2 |
-
-
-
 
 
 
