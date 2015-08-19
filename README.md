@@ -37,7 +37,10 @@ One issue might be that it doesn't save automatically, this might be an issue as
 
 Now I just need to figure out how to add other files and link to them.
 
-Link to another file
+[Link to another file](/another-file.md)
+
+
+
 
 
 
