@@ -1,6 +1,8 @@
 # test-repo-gitbook
 This is a test repo for trying out gitbook.com
 
+Added this from repo, will it update in Gitbook?
+
 [Here is the book for it
 ](http://libbyschuknight.gitbooks.io/test-book-for-gitbook/content/)
 
